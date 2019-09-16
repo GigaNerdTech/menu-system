@@ -1,6 +1,5 @@
 ﻿# Written by Joshua Woleben
 # Date 6/17/19
-# Methodist Health System
 
 $menu_config_path = "\\networkservers\Menus\"
 $menu_header = "Name","Command","Description"
